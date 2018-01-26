@@ -2,3 +2,5 @@
 ## asfda
 
 aerafd
+
+{{ site.data.navigation}}
